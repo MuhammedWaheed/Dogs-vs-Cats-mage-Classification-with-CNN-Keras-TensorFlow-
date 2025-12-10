@@ -12,7 +12,6 @@
 - Provide a clean, reusable notebook for Colab or Kaggle
 
 ---
-
 ## 📂 Dataset
 
 -[Kaggle Dogs vs Cats dataset](https://www.kaggle.com/datasets/biaiscience/dogs-vs-cats).  
@@ -29,9 +28,20 @@
 | **Number of Classes** | **2** (Dog ,Cat) |
 | **Data Format**       | **JPEG Images**                                           |
 
----
 
-## ⚙️ 3. Environment & Requirements
+---
+---
+## 🧮 Technologies Used
+| Category | Tools / Libraries |
+|-----------|-------------------|
+| Language | Python 🐍 |
+| Deep Learning | TensorFlow, Keras |
+| Data Processing | NumPy, OpenCV |
+| Visualization | Matplotlib, Seaborn |
+| Dataset | Dogs vs Cats Classification (Kaggle) |
+
+---
+## ⚙️ Environment & Requirements
 
 The notebook runs on **Google Colab** (GPU recommended) or **Kaggle Notebooks**.
 
@@ -53,3 +63,4 @@ The notebook runs on **Google Colab** (GPU recommended) or **Kaggle Notebooks**.
 │   └── test/test                         # for testing model 
            
 ---
+
