@@ -1,4 +1,4 @@
-# 🐶🐱 Dogs vs Cats – Image Classification in Keras
+# 🐶🐱 Dogs vs Cats – Image Classification
 
 -This project trains a Convolutional Neural Network (CNN) to classify images of **dogs** and **cats** 
 
