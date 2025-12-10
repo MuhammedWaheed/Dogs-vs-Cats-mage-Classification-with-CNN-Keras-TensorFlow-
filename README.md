@@ -46,14 +46,14 @@ Main libraries:
 - `opencv-python` (for some image visualization)
 - `scikit-learn` (for `train_test_split`)
 
-
--├── Image_Classification_Colab.ipynb   # main notebook
--├── README.md                          # this file
--├── data/
--│   ├── train/                         # training images (cats & dogs)
--│   └── test/                          # test / inference images (optional)
--└── models/
-  -  └── dog_cat_cnn.h5                 # saved Keras model (if saved)
+```bash
+├── Image_Classification_Colab.ipynb   # main notebook
+├── README.md                          # this file
+├── data/
+│   ├── train/                         # training images (cats & dogs)
+│   └── test/                          # test / inference images (optional)
+└── models/
+   └── dog_cat_cnn.h5                 # saved Keras model (if saved)
 ---
 data/train/
 ├── cat.0.jpg
