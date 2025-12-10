@@ -1,7 +1,11 @@
 # 🐶🐱 Dogs vs Cats – Image Classification in Keras
 
-This project trains a Convolutional Neural Network (CNN) to classify images of **dogs** and **cats** using the classic [Kaggle Dogs vs Cats dataset](https://www.kaggle.com/datasets/biaiscience/dogs-vs-cats).  
-It demonstrates a complete deep-learning workflow including data preparation, augmentation, model training, evaluation, and prediction.
+-This project trains a Convolutional Neural Network (CNN) to classify images of **dogs** and **cats** 
+
+
+-[Kaggle Dogs vs Cats dataset](https://www.kaggle.com/datasets/biaiscience/dogs-vs-cats).  
+
+-It demonstrates a complete deep-learning workflow including data preparation, augmentation, model training, evaluation, and prediction.
 
 ---
 ## 📌 1. Project Objectives
